@@ -80,6 +80,22 @@
       "decimals": 18,
       "chainId": 1625,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Latch staked USD",
+      "address": "0xc4af68Dd5b96f0A544c4417407773fEFDc97F58d",
+      "symbol": "atUSD",
+      "decimals": 18,
+      "chainId": 1625,
+      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atUSD.svg"
+    },
+    {
+      "name": "Latch staked ETH",
+      "address": "0xc314b8637B05A294Ae9D9C29300d5f667c748baD",
+      "symbol": "atETH",
+      "decimals": 18,
+      "chainId": 1625,
+      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atETH.svg"
     }
   ]
 }
