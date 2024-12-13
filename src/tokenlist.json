@@ -96,6 +96,14 @@
       "decimals": 18,
       "chainId": 1625,
       "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atETH.svg"
+    },
+    {
+      "name": "Wrapped G",
+      "address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+      "symbol": "wG",
+      "decimals": 18,
+      "chainId": 1625,
+      "logoURI": "https://assets.gravity.xyz/token_logo.png"
     }
   ]
 }
