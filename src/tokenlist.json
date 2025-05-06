@@ -15,7 +15,19 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "links": {
+        "officialWebsite": "https://wbtc.network/",
+        "whitepaper": "https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf",
+        "twitter": "https://x.com/WrappedBTC",
+        "telegram": "",
+        "discord": "",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "",
+        "github": "",
+        "facebook": ""
+      }
     },
     {
       "name": "Dai Stablecoin",
@@ -23,7 +35,19 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "links": {
+        "officialWebsite": "https://www.makerdao.com/",
+        "whitepaper": "https://makerdao.com/en/whitepaper",
+        "twitter": "https://x.com/SkyEcosystem",
+        "telegram": "https://t.me/makerdaoOfficial",
+        "discord": "https://discord.com/invite/skyecosystem",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "https://www.reddit.com/r/MakerDAO/",
+        "github": "https://github.com/makerdao",
+        "facebook": ""
+      }
     },
     {
       "name": "Bridged USDC (Stargate)",
@@ -31,7 +55,19 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "links": {
+        "officialWebsite": "https://www.usdc.com/",
+        "whitepaper": "https://cryptoactu.com/wp-content/uploads/2018/12/WhitePaper.pdf",
+        "twitter": "https://x.com/circle",
+        "telegram": "",
+        "discord": "",
+        "messageBoard": "",
+        "announcement": "https://www.circle.com/blog",
+        "reddit": "",
+        "github": "https://github.com/circlefin/stablecoin-evm",
+        "facebook": ""
+      }
     },
     {
       "name": "Tether USD",
@@ -39,7 +75,19 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "links": {
+        "officialWebsite": "https://tether.to/",
+        "whitepaper": "https://tether.to/en/how-it-works",
+        "twitter": "https://x.com/Tether_to",
+        "telegram": "https://t.me/OfficialTether",
+        "discord": "https://discord.com/invite/PJzE63A",
+        "messageBoard": "",
+        "announcement": "https://tether.io/news/",
+        "reddit": "",
+        "github": "",
+        "facebook": ""
+      }
     },
     {
       "name": "USDe",
@@ -47,7 +95,19 @@
       "symbol": "USDe",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/logo.png",
+      "links": {
+        "officialWebsite": "https://ethena.fi/",
+        "whitepaper": "https://docs.ethena.fi/how-usde-works",
+        "twitter": "https://x.com/ethena_labs",
+        "telegram": "",
+        "discord": "",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "",
+        "github": "https://github.com/ethena-labs",
+        "facebook": ""
+      }
     },
     {
       "name": "Staked USDe",
@@ -55,7 +115,19 @@
       "symbol": "sUSDe",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x9d39a5de30e57443bff2a8307a4256c8797a3497/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x9d39a5de30e57443bff2a8307a4256c8797a3497/logo.png",
+      "links": {
+        "officialWebsite": "",
+        "whitepaper": "",
+        "twitter": "",
+        "telegram": "",
+        "discord": "",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "",
+        "github": "",
+        "facebook": ""
+      }
     },
     {
       "name": "Wrapped eETH",
@@ -63,7 +135,19 @@
       "symbol": "weETH",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/logo.png",
+      "links": {
+        "officialWebsite": "https://app.ether.fi/weeth/wrap",
+        "whitepaper": "https://etherfi.gitbook.io/etherfi/staking/weeths-super-symbiotic",
+        "twitter": "https://x.com/ether_fi",
+        "telegram": "https://t.me/+C3fpSjmPqzA5NTVh",
+        "discord": "",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "",
+        "github": "",
+        "facebook": ""
+      }
     },
     {
       "name": "Wrapped liquid staked Ether 2.0",
@@ -71,7 +155,19 @@
       "symbol": "wstETH",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/1/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/logo.png",
+      "links": {
+        "officialWebsite": "https://lido.fi/",
+        "whitepaper": "https://exponential.fi/assets/wrapped-steth/488eddc2-5790-4177-a386-bf9767af80ff",
+        "twitter": "https://x.com/LidoFinance",
+        "telegram": "",
+        "discord": "https://discord.com/invite/lido",
+        "messageBoard": "",
+        "announcement": "https://blog.lido.fi/",
+        "reddit": "",
+        "github": "https://github.com/lidofinance",
+        "facebook": ""
+      }
     },
     {
       "name": "Wrapped Ether",
@@ -79,7 +175,19 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "links": {
+        "officialWebsite": "https://wormhole.com/",
+        "whitepaper": "",
+        "twitter": "https://x.com/wormhole",
+        "telegram": "https://t.me/wormholecrypto",
+        "discord": "https://discord.com/invite/PJzE63A",
+        "messageBoard": "",
+        "announcement": "",
+        "reddit": "https://www.reddit.com/r/ethereum/",
+        "github": "https://github.com/wormhole-foundation",
+        "facebook": ""
+      }
     },
     {
       "name": "Latch staked USD",
@@ -87,7 +195,19 @@
       "symbol": "atUSD",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atUSD.svg"
+      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atUSD.svg",
+      "links": {
+        "officialWebsite": "https://www.latch.io/",
+        "whitepaper": "https://docs.latch.io/",
+        "twitter": "https://x.com/useLatch",
+        "telegram": "",
+        "discord": "https://discord.com/invite/Latch",
+        "messageBoard": "",
+        "announcement": "https://blog.latch.io/",
+        "reddit": "",
+        "github": "https://github.com/latchwallet",
+        "facebook": ""
+      }
     },
     {
       "name": "Latch staked ETH",
@@ -95,7 +215,19 @@
       "symbol": "atETH",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/latchwallet/latch-token-list/master/logo/atETH.svg",
+      "links": {
+        "officialWebsite": "https://www.latch.io/",
+        "whitepaper": "https://docs.latch.io/",
+        "twitter": "https://x.com/useLatch",
+        "telegram": "",
+        "discord": "https://discord.com/invite/Latch",
+        "messageBoard": "",
+        "announcement": "https://blog.latch.io/",
+        "reddit": "",
+        "github": "https://github.com/latchwallet",
+        "facebook": ""
+      }
     },
     {
       "name": "Wrapped G",
@@ -103,7 +235,19 @@
       "symbol": "wG",
       "decimals": 18,
       "chainId": 1625,
-      "logoURI": "https://assets.gravity.xyz/token_logo.png"
+      "logoURI": "https://assets.gravity.xyz/token_logo.png",
+      "links": {
+        "officialWebsite": "https://gravity.xyz/",
+        "whitepaper": "https://docs.gravity.xyz/research/litepaper",
+        "twitter": "https://x.com/GravityChain",
+        "telegram": "https://t.me/gravitychain",
+        "discord": "https://discord.com/invite/GravityChain",
+        "messageBoard": "",
+        "announcement": "https://gravity.xyz/blog",
+        "reddit": "",
+        "github": "https://github.com/Galxe",
+        "facebook": ""
+      }
     }
   ]
 }
